@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./git_readme_images/mobile-sshot.png))
+![](./git_readme_images/mobile-sshot.png)
 
 ### Links
 
