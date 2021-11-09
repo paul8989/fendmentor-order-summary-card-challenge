@@ -1,0 +1,23 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "Front End Mentor Challenge Project",
+  "main": "index.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul8989/fendmentor-order-summary-card-challenge.git"
+  },
+  "author": "Lord Jake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paul8989/fendmentor-order-summary-card-challenge/issues"
+  },
+  "homepage": "https://github.com/paul8989/fendmentor-order-summary-card-challenge#readme"
+}
